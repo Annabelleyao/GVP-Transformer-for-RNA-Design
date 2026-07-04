@@ -1,5 +1,9 @@
 <h1><b>RNA Structural Geometry with GVP and Transformers: A Novel Deep Framework for Sequence-Structure Co-Design </b></h1>
 
+<p align="center">
+   <a href="https://arxiv.org/abs/2601.00895">Paper Link
+</p>
+
 This project provides tools for RNA design using deep learning and structural data. The code is designed to run in a UNIX environment.
 
 ## Requirements
